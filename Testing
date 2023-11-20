@@ -1,32 +1,26 @@
-<!DOCTYPE html>
 <html>
 <header>
-<p style="font-family:Montserrat">
-<p style="font-size:20pt"> 
-<p style="color:2F8F9D">
-
-/* Styling Navigation */
-.topnav a{
-    color:243A73;
-    <font-size:14pt></font-size:14pt>;
-    font-family:Roboto
+<style>
+li{
+  display: inline;
+  Font-Family Apply: Roboto; 
+  Font Size: 14pt;
+  Color: #243A73; 
+  background-color:#F1EEE9
 }
-.topnav a:hover{
-    background-color:F1EEE9
+p.note{
+background-color: #9BA3EB
+}
+p.warningnote{
+background-color: #FFD24C
 }
 </style>
-</p><body>Note</body>>
-<p style="font-family:Roboto">
-    <p style="font: size 14pt"> 
-    <p style="color:9BA3EB"
-    <background></background>
-        {
-            background-color:Black
-        }
-        <button></button>
-    </p>Warning Note</p>
-    {
-        background-color: white
-        <font>FFD24C</font>
-    }
-
+<p style="Font-Family Apply:Montserrat, Font Size: 20pt, Color: #2F8F9D">XLST Developer</p>
+ 
+<li>Note</li>
+<li>Warning Note</li>
+</br>
+<p class="note">Note:this is note content</p>
+<p class="warningnote">WarningNote:this is warning content</p>
+</header>
+</html>
