@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<header>
+<p style="font-family:Montserrat">
+<p style="font-size:20pt"> 
+<p style="color:2F8F9D">
+
+/* Styling Navigation */
+.topnav a{
+    color:243A73;
+    <font-size:14pt></font-size:14pt>;
+    font-family:Roboto
+}
+.topnav a:hover{
+    background-color:F1EEE9
+}
+</style>
+</p><body>Note</body>>
+<p style="font-family:Roboto">
+    <p style="font: size 14pt"> 
+    <p style="color:9BA3EB"
+    <background></background>
+        {
+            background-color:Black
+        }
+        <button></button>
+    </p>Warning Note</p>
+    {
+        background-color: white
+        <font>FFD24C</font>
+    }
+
