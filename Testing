@@ -12,15 +12,18 @@ p.note{
 background-color: #9BA3EB
 }
 p.warningnote{
-background-color: #FFD24C
+background-color: #FFD24C;
+color:white
 }
 </style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ 
 <p style="Font-Family Apply:Montserrat, Font Size: 20pt, Color: #2F8F9D">XLST Developer</p>
  
-<li>Note</li>
-<li>Warning Note</li>
+<li><a href="">Home</a></li>
+<li><a href="">Contact</a></li>
 </br>
-<p class="note">Note:this is note content</p>
-<p class="warningnote">WarningNote:this is warning content</p>
+<p class="note">Note<i class="fa fa-sticky-note-o"></i>:this is note content</p>
+<p class="warningnote">WarningNote<i class="fa fa-sticky-note-o"></i>:this is warning content</p>
 </header>
 </html>
